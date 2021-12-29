@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Energy (XEJ)",
+    "url": "https://www.listcorp.com/asx/sectors/energy"
+  },
+  {
+    "name": "Materials (XMJ)",
+    "url": "https://www.listcorp.com/asx/sectors/materials"
+  },
+  {
+    "name": "Industrials (XNJ)",
+    "url": "https://www.listcorp.com/asx/sectors/industrials"
+  },
+  {
+    "name": "Consumer Discretionary (XDJ)",
+    "url": "https://www.listcorp.com/asx/sectors/consumer-discretionary"
+  },
+  {
+    "name": "Consumer Staples (XSJ)",
+    "url": "https://www.listcorp.com/asx/sectors/consumer-staples"
+  },
+  {
+    "name": "Health Care (XHJ)",
+    "url": "https://www.listcorp.com/asx/sectors/health-care"
+  },
+  {
+    "name": "Financials (XFJ)",
+    "url": "https://www.listcorp.com/asx/sectors/financials"
+  },
+  {
+    "name": "Information Technology (XIJ)",
+    "url": "https://www.listcorp.com/asx/sectors/information-technology"
+  },
+  {
+    "name": "Communication Services (XTJ)",
+    "url": "https://www.listcorp.com/asx/sectors/communication-services"
+  },
+  {
+    "name": "Utilities (XUJ)",
+    "url": "https://www.listcorp.com/asx/sectors/utilities"
+  },
+  {
+    "name": "Real Estate (XPJ)",
+    "url": "https://www.listcorp.com/asx/sectors/real-estate"
+  }
+]
